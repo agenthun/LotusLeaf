@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">夏日荷叶</string>
     <string name="action_settings">设置</string>
+    <string-array name="images_url">
+        <item>http://cdnq.duitang.com/uploads/item/201503/30/20150330225643_SiJXU.jpeg</item>
+        <item>http://img4q.duitang.com/uploads/item/201203/17/20120317002234_MB4Xa.jpeg</item>
+        <item>http://img4q.duitang.com/uploads/item/201504/13/20150413H1358_LrciQ.jpeg</item>
+        <item>http://cdnq.duitang.com/uploads/item/201501/28/20150128213600_KfGSJ.jpeg</item>
+        <item>http://cdnq.duitang.com/uploads/item/201410/27/20141027211321_kEFkJ.jpeg</item>
+        <item>http://img5q.duitang.com/uploads/item/201506/18/20150618130227_8veVB.jpeg</item>
+        <item>http://img4q.duitang.com/uploads/item/201501/28/20150128155419_FPyTP.jpeg</item>
+    </string-array>
 </resources>
