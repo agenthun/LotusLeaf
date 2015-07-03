@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     @InjectView(R.id.material_style_ptr_frame)
     PtrFrameLayout frameLayout;
-    @InjectView(R.id.linearlayout)
+    @InjectView(R.id.content_linearlayout)
     LinearLayout linearLayout;
     @InjectView(R.id.image_view)
     ImageView imageView;
