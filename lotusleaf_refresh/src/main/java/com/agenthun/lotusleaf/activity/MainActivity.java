@@ -3,6 +3,7 @@ package com.agenthun.lotusleaf.activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.DecelerateInterpolator;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -84,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
                                         .scaleX(1)
                                         .scaleY(1)
                                         .setDuration(200)
-                                        .setInterpolator(new DecelerateInterpolator())
+                                        .setInterpolator(new AccelerateDecelerateInterpolator())
                                         .setStartDelay(100)
                                         .start();
                             }
